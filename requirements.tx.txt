@@ -1,0 +1,12 @@
+streamlit==1.37.0
+faster-whisper==1.0.3
+moviepy==1.0.3
+yake==0.4.8
+spacy==3.7.2
+numpy==1.26.4
+requests==2.32.3
+Pillow==10.3.0
+librosa==0.10.2.post1
+soundfile==0.12.1
+python-dotenv==1.0.1
+srt==3.5.3
